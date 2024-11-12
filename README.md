@@ -1,5 +1,5 @@
 # Weather widget
 
-&#9737
+&#x2600
 
   [DEMO LINK](https://nataliatopornitska.github.io/weather_widget/)
